@@ -1,1 +1,3 @@
-# tesseract-ocr
+# Tesseract-OCR
+## Using Google Tesseract
+OCR for the terminal
